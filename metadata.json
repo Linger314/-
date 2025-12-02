@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Journal Cover AI",
+  "description": "Generate scientific journal covers (Nature/Science style) from article abstracts or DOIs using Gemini models.",
+  "requestFramePermissions": []
+}
